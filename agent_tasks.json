@@ -1,0 +1,154 @@
+{
+  "TASK-001": {
+    "id": "TASK-001",
+    "description": "Train an ML model to classify iris flower dataset and report test accuracy",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 15:59:49",
+    "completed_at": "2026-09-03 15:59:50"
+  },
+  "TASK-002": {
+    "id": "TASK-002",
+    "description": "Search what is Reinforcement learning from human feedback and summarize it",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 15:59:50",
+    "completed_at": "2026-09-03 15:59:50"
+  },
+  "TASK-003": {
+    "id": "TASK-003",
+    "description": "Calculate 10000 * (1 + 0.12) ** 5",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 15:59:50",
+    "completed_at": "2026-09-03 15:59:50"
+  },
+  "TASK-004": {
+    "id": "TASK-004",
+    "description": "Show and list all current tasks in the backlog",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 15:59:50",
+    "completed_at": "2026-09-03 15:59:50"
+  },
+  "TASK-005": {
+    "id": "TASK-005",
+    "description": "Train a machine learning classifier on wine dataset",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 15:59:50",
+    "completed_at": "2026-09-03 15:59:50"
+  },
+  "TASK-006": {
+    "id": "TASK-006",
+    "description": "Train an ML model to classify iris flower dataset and report test accuracy",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:06:15",
+    "completed_at": "2026-09-03 16:06:15"
+  },
+  "TASK-007": {
+    "id": "TASK-007",
+    "description": "Search what is Reinforcement learning from human feedback and summarize it",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:06:15",
+    "completed_at": "2026-09-03 16:06:15"
+  },
+  "TASK-008": {
+    "id": "TASK-008",
+    "description": "Calculate 10000 * (1 + 0.12) ** 5",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:06:15",
+    "completed_at": "2026-09-03 16:06:15"
+  },
+  "TASK-009": {
+    "id": "TASK-009",
+    "description": "Show and list all current tasks in the backlog",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:06:15",
+    "completed_at": "2026-09-03 16:06:15"
+  },
+  "TASK-010": {
+    "id": "TASK-010",
+    "description": "Train a machine learning classifier on wine dataset",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:06:16",
+    "completed_at": "2026-09-03 16:06:16"
+  },
+  "TASK-011": {
+    "id": "TASK-011",
+    "description": "Train an ML model on iris dataset",
+    "priority": "High",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:16:55",
+    "completed_at": "2026-09-03 16:16:56"
+  },
+  "TASK-012": {
+    "id": "TASK-012",
+    "description": "Train an ML model to classify iris flower dataset and report test accuracy",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:17:45",
+    "completed_at": "2026-09-03 16:17:46"
+  },
+  "TASK-013": {
+    "id": "TASK-013",
+    "description": "Search what is Reinforcement learning from human feedback and summarize it",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:17:46",
+    "completed_at": "2026-09-03 16:17:46"
+  },
+  "TASK-014": {
+    "id": "TASK-014",
+    "description": "Calculate 10000 * (1 + 0.12) ** 5",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:17:46",
+    "completed_at": "2026-09-03 16:17:46"
+  },
+  "TASK-015": {
+    "id": "TASK-015",
+    "description": "Show and list all current tasks in the backlog",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:17:46",
+    "completed_at": "2026-09-03 16:17:46"
+  },
+  "TASK-016": {
+    "id": "TASK-016",
+    "description": "Train a machine learning classifier on wine dataset",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:17:46",
+    "completed_at": "2026-09-03 16:17:46"
+  },
+  "TASK-017": {
+    "id": "TASK-017",
+    "description": "Train an ML classifier on iris flower dataset and compute accuracy",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:22:13",
+    "completed_at": "2026-09-03 16:22:14"
+  },
+  "TASK-018": {
+    "id": "TASK-018",
+    "description": "Show and list all current tasks in the backlog",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:22:34",
+    "completed_at": "2026-09-03 16:22:34"
+  },
+  "TASK-019": {
+    "id": "TASK-019",
+    "description": "Train a machine learning classifier on wine dataset",
+    "priority": "Medium",
+    "status": "COMPLETED",
+    "created_at": "2026-09-03 16:22:37",
+    "completed_at": "2026-09-03 16:22:38"
+  }
+}
